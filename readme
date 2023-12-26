@@ -1,0 +1,10 @@
+Ttitulo -> Sistema de Authenticação simples e rápido já feitinho e pronto;
+Versão -> 0.5;
+Inspirado em -> Projeto "notification" do professor Romerito;
+Editado e transformado em -> "projeto9";
+
+Motivação -> Os kits iniciais do laravel precisam do framework Nodes.js, porém não quero ficar dependente desse recurso;
+
+Data de "Criação" -> 16/12/2022 - 13:39 PM;
+Inclui -> Views, controllers, middleware e Policy de login, register, dashboard, profile e algumas configurações para manipulação com Admins.
+--------------------------------------------------------------
